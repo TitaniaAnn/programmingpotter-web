@@ -113,7 +113,7 @@ if ($run) {
 
         <div class="bad-token">
             <strong>Access denied.</strong> Pass the token in the URL to continue.<br>
-            <code>https://programmingpotter.com/update_001_pottery_images.php?token=update2024</code>
+            <code>https://makerfolio.art/update_001_pottery_images.php?token=update2024</code>
         </div>
 
     <?php elseif (!$run): ?>

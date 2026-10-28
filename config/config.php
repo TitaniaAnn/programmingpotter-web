@@ -10,7 +10,7 @@ define('DB_PASS', $_ENV['DB_PASS']);
 
 define('DB_CHARSET', 'utf8mb4');
 
-define('SITE_URL', 'https://programmingpotter.com'); // No trailing slash
+define('SITE_URL', 'https://makerfolio.art'); // No trailing slash
 define('UPLOAD_PATH', __DIR__ . '/../public/uploads/');
 define('UPLOAD_URL', SITE_URL . '/uploads/');
 
